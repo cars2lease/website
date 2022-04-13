@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.contact-map {
+    filter: grayscale(1) opacity(0.8);
+}

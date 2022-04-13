@@ -13,10 +13,10 @@ const Navbar = () => {
         </Link>
         <nav className="md:ml-auto flex flex-wrap items-center text-base justify-center">
           <Link to='/' className="mr-5 hover:text-gray-900">Hjem</Link>
-          <Link to='/' className="mr-5 hover:text-gray-900">Flexleasing</Link>
-          <Link to='/' className="mr-5 hover:text-gray-900">Hvad koster det?</Link>
-          <Link to='/' className="mr-5 hover:text-gray-900">Forslag</Link>
-          <Link to='/' className="mr-5 hover:text-gray-900">Kontakt</Link>
+          <Link to='/flexleasing' className="mr-5 hover:text-gray-900">Flexleasing</Link>
+          <Link to='/pricing' className="mr-5 hover:text-gray-900">Hvad koster det?</Link>
+          <Link to='/flexleasing#leasingSuggestions' className="mr-5 hover:text-gray-900">Forslag</Link>
+          <Link to='/contact' className="mr-5 hover:text-gray-900">Kontakt</Link>
         </nav>
       </div>
     </header>    

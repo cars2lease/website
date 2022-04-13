@@ -1,3 +1,4 @@
+import { Link } from 'gatsby'
 import React from 'react'
 
 const Feature = () => {
@@ -19,11 +20,11 @@ const Feature = () => {
                         <div className="flex-grow pl-6">
                             <h2 className="text-gray-900 text-lg title-font font-medium mb-2">Flexleasing</h2>
                             <p className="leading-relaxed text-base">Flexleasing - tidsbegrænset leasingperiode af bil, hvor der alene beregnes og betales dansk registreringsafgift af køretøjet på grundlag af leasingperiodens varighed. Oversat betyder det, at du sparer den fulde registreringsafgift på bilen, og alene betaler dansk afgift af bilen på månedsbasis.</p>
-                            <a className="mt-3 text-red-500 inline-flex items-center">Learn More
+                            <Link to="/flexleasing" className="mt-3 text-red-500 inline-flex items-center">Se mere om leasing
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
-                            </a>
+                            </Link>
                         </div>
                     </div>
 
@@ -39,11 +40,11 @@ const Feature = () => {
                             <h2 className="text-gray-900 text-lg title-font font-medium mb-2">Hvad koster det?</h2>
                             <p className="leading-relaxed text-base">Når du har valgt at flexlease ved CTL Cars to lease AB, udarbejder vi leasingkontrakt og varetager alle opgaver herved indtil vi kan udleveres en nøgle til din bil.
                                 Bilens pris uden registreringsafgift som du betaler, er den samme pris som CTL Cars to lease AB afregner til </p>
-                            <a className="mt-3 text-red-500 inline-flex items-center">Learn More
+                            <Link to="/pricing" className="mt-3 text-red-500 inline-flex items-center">Se mere om priser
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
-                            </a>
+                            </Link>
                         </div>
                     </div>
 
@@ -59,11 +60,11 @@ const Feature = () => {
                             <p className="leading-relaxed text-base">
                                 Du kan flexlease både en ny eller brugt bil, valget er dit, eneste forudsætning er dog at bilen er uden dansk registreringsafgift. Eksemplerne er vejledende. Pris variationer vil opstå, pga. valg af udstyr, og kilometer.
                             </p>
-                            <a className="mt-3 text-red-500 inline-flex items-center">Learn More
+                            <Link to="/flexleasing#suggestedLeasing" className="mt-3 text-red-500 inline-flex items-center">Se forslag
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
                                 </svg>
-                            </a>
+                            </Link>
                         </div>
                     </div>
                 </div>
