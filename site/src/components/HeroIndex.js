@@ -12,8 +12,8 @@ const HeroIndex = () => {
                         <br className="hidden lg:inline-block" />
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        Vil du realisere din drømmebil til en konkurrencedygtig pris, så kontakt CTL Cars to lease AB.
-                        CTL Cars to lease AB har adresse i Stockholm. Bortset fra vores firmaadresse, så er resten på dansk lige fra tale til tekst og nummerplader.
+                        Vil du realisere din drømmebil til en konkurrencedygtig pris, så kontakt CTL Leasing ApS.
+                        vi har adresse i Stockholm, bortset fra vores firmaadresse, så er resten på dansk lige fra tale til tekst og nummerplader.
                     </p>
                     <div className="flex justify-center">
                         <Link to="/contact" className="inline-flex text-white bg-red-500 border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg">Kontakt os</Link>
