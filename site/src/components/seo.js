@@ -69,7 +69,23 @@ function Seo({ description, lang, meta, title }) {
           content: metaDescription,
         },
       ].concat(meta)}
-    />
+    >
+      <script type="application/ld+json">
+        {`
+        {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "url": "https://www.cars2lease.dk",
+          "name": "CTL Leasing ApS",
+          "contactPoint": {
+            "@type": "ContactPoint",
+            "telephone": "+4526301436",
+            "contactType": "Customer Support"
+          }
+        }
+      `}
+      </script>
+    </Helmet>
   )
 }
 
