@@ -1,9 +1,11 @@
 import React from 'react'
-import LeasingList from '../components/LeasingList'
+import { Link } from 'gatsby'
+
 
 // components
 import Layout from '../components/layout'
 import Seo from '../components/seo'
+import LeasingList from '../components/LeasingList'
 
 // icons
 import {FiStar ,FiAward } from "react-icons/fi";
@@ -42,7 +44,7 @@ const Flexleasing = () => {
               <p className="leading-relaxed text-base">
                 Når du har valgt at flexlease ved CTL Cars to lease AB kan du ikke alene glæde dig over ikke at skulle betale fuld registreringsafgift af din drømmebil, du har som erhvervsdrivende skattefordel ved fradrag for registreringsafgiften og leasingydelserne.
                 Eje, leje eller lease, - det koster, - også selvom der afregnes registreringsafgift på månedsbasis. Flexleasing er den billigste løsning, når valget af bil er i den dyre ende af bilmærkerne.
-                Og fordelen bliver ikke mindre af, at du måske foretrækker at flexlease en autocamper eller en motorcykel. På siden "Hvad koster det?" kan du se hvor meget du har råd til at spare.
+                Og fordelen bliver ikke mindre af, at du måske foretrækker at flexlease en autocamper eller en motorcykel. På siden <Link to="/pricing" className="text-red-300">Hvad koster det?</Link> kan du se hvor meget du har råd til at spare.
               </p>
             </div>
           </div>
