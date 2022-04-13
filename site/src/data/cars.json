@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Honda Civic",
+        "price": 12000,
+        "date": 2001,
+        "link": "",
+        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "name": "ford",
+        "price": 12000,
+        "date": 2001,
+        "link": "",
+        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "name": "fiesta",
+        "price": 12000,
+        "date": 2001,
+        "link": "",
+        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "name": "Mercedes",
+        "price": 12000,
+        "date": 2001,
+        "link": "",
+        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "name": "Honda Civic",
+        "price": 12000,
+        "date": 2001,
+        "link": "",
+        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "name": "ford",
+        "price": 12000,
+        "date": 2001,
+        "link": "",
+        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "name": "fiesta",
+        "price": 12000,
+        "date": 2001,
+        "link": "",
+        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    },
+    {
+        "name": "Mercedes",
+        "price": 12000,
+        "date": 2001,
+        "link": "",
+        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+    }
+]

@@ -1,29 +1,7 @@
 import React from 'react'
 
-const cars = [
-    {
-        name: "honda",
-        price: 12000,
-        link: "",
-        imageLink: "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-
-    }, {
-        name: "ford",
-        price: 12000,
-        link: "",
-        imageLink: "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-    }, {
-        name: "fiesta",
-        price: 12000,
-        link: "",
-        imageLink: "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-    }, {
-        name: "Mercedes",
-        price: 12000,
-        link: "",
-        imageLink: "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
-    },
-]
+// car data
+import cars from "../data/cars.json";
 
 const LeasingList = () => {
     return (
@@ -37,8 +15,8 @@ const LeasingList = () => {
                                     <img alt={car.name} className="object-cover object-center w-full h-full block" src={car.imageLink} />
                                 </a>
                                 <div className="mt-4">
-                                    <h3 className="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
-                                    <h2 className="text-gray-900 title-font text-lg font-medium">{car.name}</h2>
+                                <h2 className="text-gray-600 title-font text-sm tracking-widest font-medium">{car.date}</h2>
+                                    <h2 className="text-gray-900 title-font tracking-wider text-lg font-medium">{car.name}</h2>
                                     <p className="mt-1">{car.price} DKK</p>
                                 </div>
                             </div>

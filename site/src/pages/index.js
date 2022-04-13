@@ -5,8 +5,8 @@ import Seo from "../components/seo"
 import Feature from "../components/Feature"
 import HeroIndex from "../components/HeroIndex"
 
-const IndexPage = () => (
-    <Layout>
+const IndexPage = ({location}) => (
+    <Layout path={location.pathname}>
         <Seo title="Forside" />
         <HeroIndex/>        
         <Feature/>

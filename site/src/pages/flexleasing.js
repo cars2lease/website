@@ -10,12 +10,10 @@ import LeasingList from '../components/LeasingList'
 // icons
 import {FiStar ,FiAward } from "react-icons/fi";
 
-const Flexleasing = () => {
+const Flexleasing = ({location}) => {
   return (
-    <Layout>
+    <Layout path={location.pathname}>
       <Seo title="Forside" />
-      <h1 className='text-2xl font-semibold text-red-500 mb-4 mt-8'>Flexleasing hos Cars2Lease</h1>
-
       <section className="text-gray-600 body-font flex">
         <div className="container px-5 py-12 mx-auto">
           <div className="flex items-top  mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
