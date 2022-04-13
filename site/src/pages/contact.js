@@ -32,7 +32,7 @@ const Contact = ({location}) => {
               <a href="tel:+4526301436" className="text-white w-full underline text-center bg-red-500 border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg">
                 <span className='flex flex-row items-center justify-center space-x-3'>
                   <BsTelephoneFill size={16} />
-                  <span className='underline'>+45 2530 1436 </span>
+                  <span className='underline'>+45 25 30 14 36 </span>
                 </span>
 
               </a>
