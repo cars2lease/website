@@ -7,7 +7,7 @@ const PricingList = () => {
             <div className="container px-5 py-12 lg:py-24 mx-auto">
                 <div className="text-center mb-12">
                     <h1 className="sm:text-3xl text-2xl font-medium text-center title-font text-gray-900 mb-4">Uden beregning hos CTL Cars to Lease</h1>
-                    <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">Når du leaser en bil ved CTL Cars to lease AB er det helt op til dig selv.</p>
+                    <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">Når du leaser en bil ved CTL Leasing ApS er det helt op til dig selv.</p>
                 </div>
                 <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
                     <div className="p-2 sm:w-1/2 w-full">

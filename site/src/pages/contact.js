@@ -20,9 +20,9 @@ const Contact = ({location}) => {
             <h2 className="text-red-500 text-lg mb-2 font-medium title-font">Kontakt os i dag</h2>
 
             <ul className='text-center py-4'>
-              <li className='font-semibold'>CTL Cars to lease AB</li>
-              <li>Industrivej 9</li>
-              <li>5580 Nr. Åby</li>
+              <li className='font-semibold'>CTL Cars to lease ApS</li>
+              <li>Gl. Strandvej 136</li>
+              <li>5500 Middelfart</li>
               <li>Danmark</li>
             </ul>
 

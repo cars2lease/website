@@ -21,8 +21,8 @@ const Pricing = ({location}) => {
             <div className="flex-grow sm:text-left text-center mt-6 sm:mt-0">
               <h2 className="text-gray-900 text-lg title-font font-medium mb-2">Hvordan du fungerer det?</h2>
               <ul className='space-y-2'>
-                <li className='leading-relaxed text-base'>Når du har valgt  flexleasing ved CTL Cars to lease AB, udarbejder vi leasingkontrakt og varetager alle opgaver herved indtil vi kan udlevere en nøgle til din bil.</li>
-                <li className='leading-relaxed text-base'>Bilens pris uden registreringsafgift som du betaler leasingydelse af, er den samme pris som CTL Cars to lease AB afregner til leverandør.</li>
+                <li className='leading-relaxed text-base'>Når du har valgt  flexleasing ved CTL Leasing ApS, udarbejder vi leasingkontrakt og varetager alle opgaver herved indtil vi kan udlevere en nøgle til din bil.</li>
+                <li className='leading-relaxed text-base'>Bilens pris uden registreringsafgift som du betaler leasingydelse af, er den samme pris som CTL Leasing ApS afregner til leverandør.</li>
                 <li className='leading-relaxed text-base'>Udgifter til kontraktoprettelse, levering og hjemtagelsesomkostninger af bil afregnes samtidig med en sikkerhedsstillelse på den valgte bil.</li>
               </ul>
               <Link to="/contact" className="mt-3 text-red-500 inline-flex items-center">Kontakt for yderligere
