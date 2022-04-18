@@ -22,7 +22,7 @@ const HeroIndex = () => {
                 </div>
                 <div className="max-h-lg lg:w-full md:w-1/2 w-5/6">
                     <StaticImage
-                        src="../images/Bode-lol.png"
+                        src="../porsche-hero.jpg"
                         className="object-cover object-center rounded"
                         quality={95}
                         formats={["auto", "webp", "avif"]}
