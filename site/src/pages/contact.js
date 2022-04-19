@@ -13,7 +13,7 @@ const Contact = ({location}) => {
       <Seo title="Kontakt os" />
       <section className="text-gray-600 body-font relative my-12">
         <div className="absolute inset-0 bg-gray-300">
-          <iframe className="contact-map" marginHeight="0" marginWidth="0" title="map" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2261.9786939319247!2d9.867798916012497!3d55.46303812176999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464c95427ee700b1%3A0xaa3c757fde9f875d!2sIndustrivej%208%2C%205580%20N%C3%B8rre%20Aaby!5e0!3m2!1sda!2sdk!4v1649835363778!5m2!1sda!2sdk" width="100%" height="100%" allowFullScreen="no" loading="lazy" referrerPolicy="no-referrer-when-downgrade" frameBorder="0"></iframe>
+          <iframe className="contact-map" marginHeight="0" marginWidth="0" title="map" scrolling="no" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2258.578668629376!2d9.765118395390472!3d55.52228919065463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464c9695178593ab%3A0x6417cf454bb03c6a!2sGl%20Strandvej%20136%2C%205500%20Middelfart!5e0!3m2!1sda!2sdk!4v1650350070110!5m2!1sda!2sdk" width="100%" height="100%" allowFullScreen="no" loading="lazy" referrerPolicy="no-referrer-when-downgrade" frameBorder="0"></iframe>
         </div>
         <div className="container px-5 py-24 mx-auto flex">
           <div className="lg:w-1/3 md:w-1/2 bg-white rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0 relative z-10 shadow-md">
@@ -43,7 +43,7 @@ const Contact = ({location}) => {
                 </span>
               </a>
             </div>
-            <p className="text-xs text-gray-500 mt-3">Chicharrones blog helvetica normcore iceland tousled brook viral artisan.</p>
+            <p className="text-xs text-gray-500 mt-3"></p>
           </div>
         </div>
       </section>
