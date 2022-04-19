@@ -1,58 +1,66 @@
 [
     {
-        "name": "Honda Civic",
-        "price": 12000,
-        "date": 2001,
-        "link": "",
-        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        "name": "Mercedes C220d",
+        "price": 4200,
+        "monthly": true,
+        "date": 2018,
+        "link": "http://www.tgabiler.dk/biler/bildetaljer/Mercedes-amg-line-stc-aut-bid-1220376237",
+        "imageLink": "https://i.ebayimg.com/images/g/04AAAOSwMeZhO2Pk/s-l1600.jpg?width=1600&quality=40"
     },
     {
-        "name": "ford",
-        "price": 12000,
-        "date": 2001,
-        "link": "",
-        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        "name": "Mercedes C43",
+        "price": 5730,
+        "monthly": true,
+        "date": 2018,
+        "link": "http://www.tgabiler.dk/biler/bildetaljer/Mercedes-amg-aut-4matic-bid-1547200551",
+        "imageLink": "https://i.ebayimg.com/images/g/YBYAAOSwKS1iRv1n/s-l1600.jpg?width=1600&quality=40"
     },
     {
-        "name": "fiesta",
-        "price": 12000,
-        "date": 2001,
-        "link": "",
-        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        "name": "Mercedes G55",
+        "price": 5950,
+        "monthly": true,
+        "date": 2006,
+        "link": "http://www.tgabiler.dk/biler/bildetaljer/Mercedes-amg-komp-aut-bid-323350917",
+        "imageLink": "https://i.ebayimg.com/images/g/m0UAAOSwxVRiPY2i/s-l1600.jpg?width=667&quality=60"
     },
     {
-        "name": "Mercedes",
-        "price": 12000,
-        "date": 2001,
-        "link": "",
-        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        "name": "Porsche 911 Carrera S",
+        "price": 5900,
+        "monthly": true,
+        "date": 2005,
+        "link": "http://www.tgabiler.dk/biler/bildetaljer/Porsche-coup%C3%A9-tiptr-bid-1366717558",
+        "imageLink": "https://i.ebayimg.com/images/g/KfUAAOSwbmNhpMdJ/s-l1600.jpg?width=667&quality=60"
     },
     {
-        "name": "Honda Civic",
-        "price": 12000,
-        "date": 2001,
-        "link": "",
-        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        "name": "Range Rover Sport",
+        "price": 5500,
+        "monthly": true,
+        "date": 2013,
+        "link": "http://www.tgabiler.dk/biler/bildetaljer/Land-Rover-sdv6-hse-dynamic-aut-bid-643793015",
+        "imageLink": "https://i.ebayimg.com/images/g/ILMAAOSwx8ZiUW3a/s-l1600.jpg?width=667&quality=60"
     },
     {
-        "name": "ford",
-        "price": 12000,
-        "date": 2001,
-        "link": "",
-        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        "name": "Porsche Macan S",
+        "price": 6200,
+        "monthly": true,
+        "date": 2015,
+        "link": "http://www.tgabiler.dk/biler/bildetaljer/Porsche-d-pdk-bid-846057503",
+        "imageLink": "https://i.ebayimg.com/images/g/vmkAAOSwbRNhQacF/s-l1600.jpg?width=667&quality=60"
     },
     {
-        "name": "fiesta",
-        "price": 12000,
-        "date": 2001,
-        "link": "",
-        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        "name": "Mercedes CLA200",
+        "price": 3600,
+        "monthly": true,
+        "date": 2017,
+        "link": "http://www.tgabiler.dk/biler/bildetaljer/Mercedes-amg-line-aut-bid-1798610828",
+        "imageLink": "https://i.ebayimg.com/images/g/M-IAAOSwbyhhA9xa/s-l1600.jpg?width=667&quality=60"
     },
     {
-        "name": "Mercedes",
-        "price": 12000,
-        "date": 2001,
-        "link": "",
-        "imageLink": "https://images.unsplash.com/photo-1441148345475-03a2e82f9719?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+        "name": "BMW X5",
+        "price": 5900,
+        "monthly": true,
+        "date": 2016,
+        "link": "http://www.tgabiler.dk/biler/bildetaljer/BMW-xdrive40d-m-sport-aut-bid-1048719001",
+        "imageLink": "https://i.ebayimg.com/images/g/l~cAAOSwDhRh~lZT/s-l1600.jpg?width=667&quality=60"
     }
 ]
