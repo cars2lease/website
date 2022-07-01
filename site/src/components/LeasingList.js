@@ -21,7 +21,6 @@ const LeasingList = () => {
                                         <p className="mt-1">{car.price} DKK pr. md.</p> : 
                                         <p className="mt-1">{car.price} DKK</p>
                                     }
-
                                 </div>
                             </div>
                         )

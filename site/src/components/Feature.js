@@ -35,8 +35,7 @@ const Feature = () => {
                         </div>
                         <div className="flex-grow pl-6">
                             <h3 className="text-gray-900 text-lg title-font font-medium mb-2">Hvad koster det?</h3>
-                            <p className="leading-relaxed text-base">Når du har valgt at flexlease ved CTL Leasing ApS, udarbejder vi leasingkontrakt og varetager alle opgaver herved indtil vi kan udleveres en nøgle til din bil.
-                                Bilens pris uden registreringsafgift som du betaler, er den samme pris som CTL Leasing ApS afregner til </p>
+                            <p className="leading-relaxed text-base">Når du har valgt at flexlease ved CTL Leasing ApS, udarbejder vi leasingkontrakt og varetager alle opgaver herved indtil vi kan udlevere en nøgle til din bil.</p>
                             <Link to="/pricing" className="mt-3 text-red-500 inline-flex items-center">Se mere om priser
                                 <svg fill="none" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" className="w-4 h-4 ml-2" viewBox="0 0 24 24">
                                     <path d="M5 12h14M12 5l7 7-7 7"></path>
