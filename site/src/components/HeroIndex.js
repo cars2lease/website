@@ -20,9 +20,9 @@ const HeroIndex = () => {
                         <Link to="/flexleasing" className="ml-4 inline-flex text-gray-700 bg-gray-200 border-0 py-2 px-6 focus:outline-none hover:text-white hover:bg-gray-300 rounded text-lg">Flexleasing</Link>
                     </div>
                 </div>
-                <div className="max-h-lg lg:w-full md:w-1/2 w-5/6">
+                <div className="max-h-lg lg:w-full md:w-1/2 w-5/6 flex justify-end">
                     <StaticImage
-                        src="../images/cars-1.jpg"
+                        src="../images/porsche-2.jpg"
                         className="object-cover object-center rounded"
                         quality={95}
                         formats={["auto", "webp", "avif"]}
