@@ -20,7 +20,7 @@ const Contact = ({location}) => {
             <h2 className="text-red-500 text-lg mb-2 font-medium title-font">Kontakt os i dag</h2>
 
             <ul className='text-center py-4'>
-              <li className='font-semibold'>CTL Cars to lease ApS</li>
+              <li className='font-semibold'>CTL Leasing ApS</li>
               <li>Gl. Strandvej 136</li>
               <li>5500 Middelfart</li>
               <li>Danmark</li>
@@ -36,10 +36,10 @@ const Contact = ({location}) => {
                 </span>
 
               </a>
-              <a href="mailto:pe@cars2lease.dk" className="text-white w-full text-center bg-red-500 border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg">
+              <a href="mailto:pe@ctl-leasing.dk" className="text-white w-full text-center bg-red-500 border-0 py-2 px-6 focus:outline-none hover:bg-red-600 rounded text-lg">
                 <span className='flex flex-row items-center justify-center space-x-3'>
                   <IoMdMail size={16}/>
-                  <span className='underline'>pe@cars2lease.dk</span>
+                  <span className='underline'>pe@ctl-leasing.dk</span>
                 </span>
               </a>
             </div>
