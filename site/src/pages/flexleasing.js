@@ -13,7 +13,7 @@ import {FiStar ,FiAward } from "react-icons/fi";
 const Flexleasing = ({location}) => {
   return (
     <Layout path={location.pathname}>
-      <Seo title="Forside" />
+      <Seo title="Flexleasing" />
       <section className="text-gray-600 body-font flex">
         <div className="container px-5 py-12 mx-auto">
           <div className="flex items-top  mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
