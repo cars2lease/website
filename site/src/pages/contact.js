@@ -13,7 +13,7 @@ const Contact = ({location}) => {
       <Seo title="Kontakt os" />
       <section className="text-gray-600 body-font relative my-12">
         <div className="absolute inset-0 bg-gray-300">
-          <iframe className="contact-map" marginHeight="0" marginWidth="0" title="map" scrolling="no" src="https://www.google.com/maps/place/Brovadvej+56,+7000+Fredericia/@55.5478883,9.6889655,17z/data=!3m1!4b1!4m5!3m4!1s0x464c975217de4b51:0x56f19ff2df71e7e4!8m2!3d55.5478853!4d9.6911542" width="100%" height="100%" allowFullScreen="no" loading="lazy" referrerPolicy="no-referrer-when-downgrade" frameBorder="0"></iframe>
+          <iframe className="contact-map" marginHeight="0" marginWidth="0" title="map" scrolling="no" src="https://maps.google.com/maps?q=Brovadvej%2056&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="100%" allowFullScreen="no" loading="lazy" referrerPolicy="no-referrer-when-downgrade" frameBorder="0"></iframe>
         </div>
         <div className="container px-5 py-24 mx-auto flex">
           <div className="lg:w-1/3 md:w-1/2 bg-white rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0 relative z-10 shadow-md">
