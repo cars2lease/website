@@ -21,8 +21,8 @@ const Contact = ({location}) => {
 
             <ul className='text-center py-4'>
               <li className='font-semibold'>CTL Leasing ApS</li>
-              <li>Gl. Strandvej 136</li>
-              <li>5500 Middelfart</li>
+              <li>Brovadvej 56</li>
+              <li>7000 Fredericia</li>
               <li>Danmark</li>
             </ul>
 
