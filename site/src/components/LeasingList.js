@@ -20,7 +20,7 @@ const LeasingList = () => {
                                 <div className="mt-4">
                                     <h2 className="text-gray-600 title-font text-sm tracking-widest font-medium">{car.date}</h2>
                                     <h2 className="text-gray-900 title-font tracking-wider text-lg font-medium">{car.name}</h2>
-                                    {car.monthly ?
+                                   // {car.monthly ?
                                         <p className="mt-1">{car.price} DKK pr. md.</p> :
                                         <p className="mt-1">{car.price} DKK</p>
                                     }
