@@ -2,23 +2,21 @@
     {
         "name": "Mercedes C220d",
         "date": 2018,
-        "price": 2900,
-        "monthly": true,
+        
+        
         "link": "http://www.tgabiler.dk/biler/bildetaljer/Mercedes-amg-line-stc-aut-bid-946760891",
         "imageLink": "https://billeder.bilinfo.net/bilinfo/0b047963-b02c-489a-887c-32cb23e75a1b.jpeg?class=S1600X1600&width=1600&quality=40"
     },
     {
         "name": "Mercedes C43",
-        "price": 2900,
-        "monthly": true,
+        
         "date": 2018,
         "link": "http://www.tgabiler.dk/biler/bildetaljer/Mercedes-amg-aut-4matic-bid-1547200551",
         "imageLink": "https://billeder.bilinfo.net/bilinfo/0980c15d-24eb-4938-9b3a-968df39ffc90.jpg?class=S1600X1600&width=1600&quality=60"
     },
     {
         "name": "Volvo V90",
-        "price": 4650,
-        "monthly": true,
+        
         "date": 2018,
         "link": "http://www.tgabiler.dk/biler/bildetaljer/Volvo-d4-190-inscription-aut-awd-bid-565277858",
         "imageLink": "https://billeder.bilinfo.net/bilinfo/83cc1959-05d4-4026-8067-28bb5c9d91a1.jpeg?class=S1600X1600&width=1600&quality=60"
@@ -31,32 +29,28 @@
     },
     {
         "name": "Mercedes C63",
-        "price": 5500,
-        "monthly": true,
+       
         "date": 2015,
         "link": "http://www.tgabiler.dk/biler/bildetaljer/Mercedes-amg-s-stc-aut-bid-1711336475",
         "imageLink": "https://billeder.bilinfo.net/bilinfo/76dbe100-9b7c-4c75-aaa0-34021418a075.jpeg?class=S1600X1600&width=1600&quality=40"
     },
     {
         "name": "Opel Insignia",
-        "price": 1792,
-        "monthly": true,
+        
         "date": 2018,
         "link": "http://www.tgabiler.dk/biler/bildetaljer/Opel-t-140-excite-sports-tourer-bid-97047970",
         "imageLink": "https://billeder.bilinfo.net/bilinfo/03949032-9a2d-4971-ab0d-44588c17408b.jpeg?class=S1600X1600&width=1600&quality=40"
     },
     {
         "name": "Audi A3",
-        "price": 2400,
-        "monthly": true,
+        
         "date": 2019,
         "link": "http://www.tgabiler.dk/biler/bildetaljer/Audi-tfsi-sport-cabriolet-bid-1244092384",
         "imageLink": "https://billeder.bilinfo.net/bilinfo/056303a3-2df5-4685-8984-05a50ff30610.jpeg?class=S1600X1600&width=1600&quality=40"
     },
     {
         "name": "BMW 420d",
-        "price": 3200,
-        "monthly": true,
+ 
         "date": 2016,
         "link": "http://www.tgabiler.dk/biler/bildetaljer/BMW-gran-coup%C3%A9-m-sport-xdrive-aut-bid-1337192262",
         "imageLink": "https://billeder.bilinfo.net/bilinfo/2bdbe19b-1b50-4d54-9421-705c7c72d3f9.jpeg?class=S1600X1600&width=1600&quality=40"
