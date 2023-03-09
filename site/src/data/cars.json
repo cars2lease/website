@@ -22,12 +22,10 @@
         "imageLink": "https://billeder.bilinfo.net/bilinfo/83cc1959-05d4-4026-8067-28bb5c9d91a1.jpeg?class=S1600X1600&width=1600&quality=60"
     },
     {
-        "name": "Porsche 911 Carrera S",
-        "price": 5900,
-        "monthly": true,
-        "date": 2005,
-        "link": "http://www.tgabiler.dk/biler/bildetaljer/Porsche-coup%C3%A9-tiptr-bid-1366717558",
-        "imageLink": "https://i.ebayimg.com/images/g/KfUAAOSwbmNhpMdJ/s-l1600.jpg?width=667&quality=60"
+        "name": "Ford Mustang",
+        "date": 2016,
+        "link": "http://www.tgabiler.dk/biler/bildetaljer/Ford-v8-gt-convertible-aut-bid-1937763530",
+        "imageLink": "https://billeder.bilinfo.net/bilinfo/8ac3ddc9-c60a-4158-8666-6cbfa4dce8df.jpeg?class=S1600X1600&width=1600&quality=40"
     },
     {
         "name": "Mercedes C63",
