@@ -23,7 +23,7 @@ import { HiOutlineArrowNarrowRight } from "react-icons/hi";
                                     <h2 className="text-gray-900 title-font tracking-wider text-lg font-medium">{car.name}</h2>
                                     {car.monthly ?
                                         <p className="mt-1">{car.price} DKK pr. md.</p> :
-                                        <p className="mt-1">{car.price} DKK</p>
+                                        <p className="mt-1">{car.price} </p>
                                     }
                                 </div>
                             </div>
