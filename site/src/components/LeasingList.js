@@ -6,7 +6,8 @@ import cars from "../data/cars.json";
 // icons
 import { HiOutlineArrowNarrowRight } from "react-icons/hi";
 
-const LeasingList = () => {
+
+// const LeasingList = () => 
     return (
         <section className="text-gray-600 body-font" id="leasingSuggestions">
             <div className="container px-5 pb-12 lg:pb-20 mx-auto">
@@ -20,7 +21,7 @@ const LeasingList = () => {
                                 <div className="mt-4">
                                     <h2 className="text-gray-600 title-font text-sm tracking-widest font-medium">{car.date}</h2>
                                     <h2 className="text-gray-900 title-font tracking-wider text-lg font-medium">{car.name}</h2>
-                                   // {car.monthly ?
+                                    {car.monthly ?
                                         <p className="mt-1">{car.price} DKK pr. md.</p> :
                                         <p className="mt-1">{car.price} DKK</p>
                                     }
@@ -40,6 +41,6 @@ const LeasingList = () => {
             </div>
         </section>
     )
-}
+
 
 export default LeasingList
