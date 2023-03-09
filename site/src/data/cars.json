@@ -48,12 +48,12 @@
         "imageLink": "https://i.ebayimg.com/images/g/vmkAAOSwbRNhQacF/s-l1600.jpg?width=667&quality=60"
     },
     {
-        "name": "Volvo XC90",
-        "price": 4960,
+        "name": "Audi A3",
+        "price": 2400,
         "monthly": true,
-        "date": 2018,
-        "link": "http://www.tgabiler.dk/biler/bildetaljer/Volvo-t6-310-inscription-aut-awd-7prs-bid-1167668987",
-        "imageLink": "https://billeder.bilinfo.net/bilinfo/d28045c6-1d22-4ecb-b384-3f8f0677f173.jpeg?class=S1600X1600&width=1600&quality=60"
+        "date": 2019,
+        "link": "http://www.tgabiler.dk/biler/bildetaljer/Audi-tfsi-sport-cabriolet-bid-1244092384",
+        "imageLink": "https://billeder.bilinfo.net/bilinfo/056303a3-2df5-4685-8984-05a50ff30610.jpeg?class=S1600X1600&width=1600&quality=40"
     },
     {
         "name": "BMW X5",
