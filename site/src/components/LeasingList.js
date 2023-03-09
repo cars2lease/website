@@ -7,7 +7,7 @@ import cars from "../data/cars.json";
 import { HiOutlineArrowNarrowRight } from "react-icons/hi";
 
 
-// const LeasingList = () => 
+ const LeasingList = () => {
     return (
         <section className="text-gray-600 body-font" id="leasingSuggestions">
             <div className="container px-5 pb-12 lg:pb-20 mx-auto">
@@ -41,6 +41,6 @@ import { HiOutlineArrowNarrowRight } from "react-icons/hi";
             </div>
         </section>
     )
-
+                }
 
 export default LeasingList
