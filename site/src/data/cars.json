@@ -1,15 +1,13 @@
 [
     {
         "name": "Mercedes C220d",
-        "price": 2840,
-        "monthly": true,
         "date": 2018,
         "link": "http://www.tgabiler.dk/biler/bildetaljer/Mercedes-amg-line-stc-aut-bid-946760891",
         "imageLink": "https://billeder.bilinfo.net/bilinfo/0b047963-b02c-489a-887c-32cb23e75a1b.jpeg?class=S1600X1600&width=1600&quality=40"
     },
     {
         "name": "Mercedes C43",
-        "price": 5100,
+        "price": 2900,
         "monthly": true,
         "date": 2018,
         "link": "http://www.tgabiler.dk/biler/bildetaljer/Mercedes-amg-aut-4matic-bid-1547200551",
