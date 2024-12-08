@@ -13,7 +13,17 @@ const Contact = ({location}) => {
       <Seo title="Kontakt os" />
       <section className="text-gray-600 body-font relative my-12">
         <div className="absolute inset-0 bg-gray-300">
-          <iframe className="contact-map" marginHeight="0" marginWidth="0" title="map" scrolling="no" src="https://maps.google.com/maps?q=Brovadvej%2056&t=&z=13&ie=UTF8&iwloc=&output=embed" width="100%" height="100%" allowFullScreen="no" loading="lazy" referrerPolicy="no-referrer-when-downgrade" frameBorder="0"></iframe>
+          <iframe
+            className="contact-map"
+            title="map"
+            scrolling="no"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5399.256653974771!2d10.087735877096387!3d55.56624090634493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464cee6268922c0d%3A0xc9f4572dc9fe671a!2sSankt%20Annagade%204%2C%205400%20Bogense!5e1!3m2!1sen!2sdk!4v1733670232880!5m2!1sen!2sdk"
+            width="100%"
+            height="100%"
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+            frameBorder="0"
+          />
         </div>
         <div className="container px-5 py-24 mx-auto flex">
           <div className="lg:w-1/3 md:w-1/2 bg-white rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0 relative z-10 shadow-md">
@@ -21,8 +31,8 @@ const Contact = ({location}) => {
 
             <ul className='text-center py-4'>
               <li className='font-semibold'>CTL Leasing ApS</li>
-              <li>Brovadvej 56</li>
-              <li>7000 Fredericia</li>
+              <li>Sct. Annagade 4</li>
+              <li>5400 Bogense</li>
               <li>Danmark</li>
             </ul>
 
